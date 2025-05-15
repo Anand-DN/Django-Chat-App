@@ -1,5 +1,5 @@
 
-# [Django Chat Application (Devnoms)](https://devnoms.onrender.com)
+# [Django Chat Application (Devnoms)]
 
 <div style="text-align: center;">
   <a href="https://devnoms.onrender.com">
@@ -92,7 +92,7 @@ Clone the **Devnoms Chat App** repository and set up locally:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/devnamdev2003/django-chat-app.git
+   git clone https://github.com/Anand-DN/Django-Chat-App.git
    cd django-chat-app
    ```
 
@@ -120,15 +120,7 @@ Clone the **Devnoms Chat App** repository and set up locally:
 
 ---
 
-## 💻 **Contributions**
 
-We welcome contributions to **Devnoms Chat App**!
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m "Add feature"`).
-4. Push to your branch (`git push origin feature-name`).
-5. Open a pull request.
 
 ---
 
@@ -148,16 +140,9 @@ Here’s a preview of the **Devnoms Chat App**:
 **Profile Management**  
 ![Edit Profile](https://filesstatic.netlify.app/Chatapp/img/edit.png)
 
----
 
-## 📜 **License**
 
-The **Devnoms Chat App** is released under the [MIT License](LICENSE).
 
 ---
 
-# 💬 **Join Devnoms Today!**
 
-Don’t miss out on seamless communication with **Devnoms Chat App**! Start chatting now and experience a whole new level of connectivity.
-
-🔗 [**Try Devnoms Now**](https://devnoms.onrender.com)
