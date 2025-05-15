@@ -15,7 +15,7 @@
 
 Experience the power of **Devnoms Chat App** right now:
 
-[![Live Preview](https://img.shields.io/badge/Live-Preview-brightgreen?style=for-the-badge&logo=django)](https://devnoms.onrender.com)
+[![Live Preview](https://img.shields.io/badge/Live-Preview-brightgreen?style=for-the-badge&logo=django)]()
 
 ---
 
