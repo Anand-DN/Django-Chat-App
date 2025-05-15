@@ -1,5 +1,5 @@
 
-# [Django Chat Application (Devnoms)]
+# [Django Chat Application (Devnoms)](https://django-chat-app-uaj0.onrender.com)
 
 <div style="text-align: center;">
   <a href="https://devnoms.onrender.com">
@@ -15,7 +15,7 @@
 
 Experience the power of **Devnoms Chat App** right now:
 
-[![Live Preview](https://img.shields.io/badge/Live-Preview-brightgreen?style=for-the-badge&logo=django)]()
+[![Live Preview](https://img.shields.io/badge/Live-Preview-brightgreen?style=for-the-badge&logo=django)](https://django-chat-app-uaj0.onrender.com)
 
 ---
 
