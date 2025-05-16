@@ -1,31 +1,30 @@
 
-# [Django Chat Application (Devnoms)](https://django-chat-app-uaj0.onrender.com)
+# [Django Chat Application](https://django-chat-app-uaj0.onrender.com)
 
 <div style="text-align: center;">
-  <a href="https://devnoms.onrender.com">
-    <img src="https://filesstatic.netlify.app/Chatapp/img/logo_750x750.png" alt="Devnoms Logo" style="width: 250px;">
+  <a href="https://django-chat-app-uaj0.onrender.com">
   </a>
 </div>
 
-🚀 Welcome to **Devnoms Chat App**, a modern, feature-rich real-time chat platform! Designed to empower seamless communication, **Devnoms Chat App** allows users to connect with friends, manage profiles, and engage in real-time conversations with an intuitive interface and cutting-edge features.
+🚀 Welcome to **Django Chat App**, a modern, feature-rich real-time chat platform! Designed to empower seamless communication, **Django Chat App** allows users to connect with friends, manage profiles, and engage in real-time conversations with an intuitive interface and cutting-edge features.
 
 ---
 
 ## 🌐 **Live Preview**
 
-Experience the power of **Devnoms Chat App** right now:
+Experience the power of **Django Chat App** right now:
 
 [![Live Preview](https://img.shields.io/badge/Live-Preview-brightgreen?style=for-the-badge&logo=django)](https://django-chat-app-uaj0.onrender.com)
 
 ---
 
-## 🌟 **About Devnoms Chat App**
+## 🌟 **About Django Chat App**
 
-**Devnoms Chat App** is a secure and scalable platform that simplifies how you connect with friends and manage your social interactions. Whether you’re sending friend requests, chatting in real-time, or managing your profile, **Devnoms** has everything you need to stay connected.
+**Django Chat App** is a secure and scalable platform that simplifies how you connect with friends and manage your social interactions. Whether you’re sending friend requests, chatting in real-time, or managing your profile, **Django** has everything you need to stay connected.
 
 ---
 
-## 🎯 **Why Choose Devnoms Chat App?**
+## 🎯 **Why Choose Django Chat App?**
 
 ✨ **Devnoms Chat App** delivers:
 
@@ -76,7 +75,7 @@ Experience the power of **Devnoms Chat App** right now:
 
 ## 🌍 **Future Enhancements**
 
-Here’s what’s coming next to **Devnoms Chat App**:
+Here’s what’s coming next to **Django Chat App**:
 
 1. **Real-Time Notifications**: Alerts for new messages and friend requests.
 2. **Multimedia Sharing**: Send images, videos, and documents in chats.
@@ -87,7 +86,7 @@ Here’s what’s coming next to **Devnoms Chat App**:
 
 ## 🖥️ **Getting Started**
 
-Clone the **Devnoms Chat App** repository and set up locally:
+Clone the **Django Chat App** repository and set up locally:
 
 1. **Clone the Repository**
 
@@ -126,7 +125,7 @@ Clone the **Devnoms Chat App** repository and set up locally:
 
 ## 📷 **Screenshots**
 
-Here’s a preview of the **Devnoms Chat App**:
+Here’s a preview of the **Django Chat App**:
 
 **Login Page**  
 ![Login](https://filesstatic.netlify.app/Chatapp/img/login.png)
